@@ -399,7 +399,7 @@ mvn test
 - **Roll Number**: 25ITR164
 - **Institution**: [Kongu Engineering College (Autonomous)](https://www.kongu.ac.in/), Perundurai, Erode - 638060
 - **Branch**: B.Tech Information Technology
-- **Repository**: [Javaprogram-assingnment](https://github.com/veeravigneshwarkv/Javaprogram-assingnment.git)
+- **Repository**: [Javaprogram-assingnment](https://github.com/Trishna2503/JDBC-Assignment.git)
 
 ---
 
