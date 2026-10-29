@@ -400,8 +400,7 @@ mvn test
 - **Institution**: [Kongu Engineering College (Autonomous)](https://www.kongu.ac.in/), Perundurai, Erode - 638060
 - **Branch**: B.Tech Information Technology
 - **Repository**: [Javaprogram-assingnment](https://github.com/Trishna2503/JDBC-Assignment.git)
-
----
+- **Video link**: **Video Link**: [Click here to watch the project demo](https://drive.google.com/file/d/1QfwQu0astBjbVeftl4_6v1-_X8XvkLYC/view?usp=drivesdk)
 
 ## 📄 License & Attribution
 
